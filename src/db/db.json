@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "0ee5fec2-779f-4b61-9783-fd2b64501b2e",
+    "name": "Lorenzo Schamberger",
+    "phone": "(293) 339-1940 x2223",
+    "email": "Cortez28@gmail.com",
+    "job": "Principal Quality Associate"
+  },
+  {
+    "id": "744a692b-e778-4464-8ff7-02c22f4aa8cc",
+    "name": "Miss Latoya Parisian-Wyman",
+    "phone": "323-599-5893 x26431",
+    "email": "Leif_Schneider39@gmail.com",
+    "job": "Lead Paradigm Designer"
+  },
+  {
+    "id": "867382bf-e850-430c-8b7a-2f6c7af2c2f0",
+    "name": "Gabriel Upton-Rowe",
+    "phone": "1-565-568-1467 x21492",
+    "email": "Frances.Hettinger59@yahoo.com",
+    "job": "Forward Intranet Supervisor"
+  },
+  {
+    "id": "4ec6723d-4a8d-4cf5-896f-71506d4a39aa",
+    "name": "Debbie Kling",
+    "phone": "720.706.6662 x720",
+    "email": "Alena.Okuneva19@hotmail.com",
+    "job": "Corporate Operations Developer"
+  },
+  {
+    "id": "3b15b95b-6979-4a9c-b4d8-8835491726ba",
+    "name": "Shelley Barrows",
+    "phone": "674.830.9343",
+    "email": "Randal_Considine@gmail.com",
+    "job": "Corporate Functionality Developer"
+  }
+]
